@@ -1,0 +1,75 @@
+/* .container{
+    display: grid;
+    grid-template-columns: repeat(3,100px);
+    gap: 20px;
+    height: 700px;
+    width: 700px;
+    background-color: rgb(101, 34, 225);
+}
+.card1{
+    height: 700px;
+    width: 100px;
+    bottom: 0px;
+    gap: 20px;
+  
+    background-color: aquamarine;
+
+}
+.card1-::after{
+    content: ;
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+}
+
+.card2{
+    display: grid;
+    grid-template-columns: 100px;
+    background-color: red;
+    gap:1000px;
+    height: 500px;
+    width: 390px;
+}
+
+.card3{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-column-start: reverse;
+    background-color: yellow;
+} */
+
+/* .card4{
+    display: grid;
+    grid-template-rows: 1fr;
+    height: 100px;
+    width: 400px;
+    background-color: aquamarine;
+    grid-row-start: ;
+  
+} */
+
+
+
+.trt{
+    background-color: red;
+    height: 200px;
+    width: 700px;
+    
+}
+.cd1{
+    background-color: rgb(128, 128, 128);
+    height: 600px;
+    width: 700px;
+    border-bottom-right-radius: 10%;
+    
+}
+.cd2{
+    position: absolute;
+    border-radius: 50%;
+    left: 15%;
+    top:15%;
+
+}
+.c2{
+    border-radius: 50%;
+}
